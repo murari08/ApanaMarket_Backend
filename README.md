@@ -1,5 +1,6 @@
 # ApanaMarket_Backend
 
+before running project run npm i
 
 Steps to run prohects
 
